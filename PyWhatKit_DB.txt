@@ -1,0 +1,91 @@
+Date: 22/10/2022
+Time: 22:56
+Phone Number: +919990091106
+Message: Hi
+--------------------
+Date: 22/10/2022
+Time: 22:58
+Phone Number: +919990091106
+Message: Hi
+--------------------
+Date: 22/10/2022
+Time: 23:0
+Phone Number: +919990091106
+Message: Hi
+--------------------
+Date: 22/10/2022
+Time: 23:4
+Phone Number: +919990091106
+Message: Hi
+--------------------
+Date: 22/10/2022
+Time: 23:5
+Phone Number: +919990091106
+Message: Hi
+--------------------
+Date: 22/10/2022
+Time: 23:6
+Phone Number: +919990091106
+Message: Hi2
+--------------------
+Date: 22/10/2022
+Time: 23:9
+Group ID: files
+Image: C:\Users\Acer pc\Downloads\9f4fbdc5-1f01-42ac-8c5e-2dcd5b219395.jpg
+Caption: Hello
+--------------------
+Date: 22/10/2022
+Time: 23:14
+Phone Number: +919990091106
+Message: Hi
+--------------------
+Date: 22/10/2022
+Time: 23:15
+Phone Number: +919990091106
+Message: Hi2
+--------------------
+Date: 22/10/2022
+Time: 23:16
+Group ID: files
+Message: Hey All!
+--------------------
+Date: 22/10/2022
+Time: 23:17
+Group ID: files
+Message: Hey All!
+--------------------
+Date: 24/3/2023
+Time: 10:51
+Phone Number: +919990091106
+Message: Hi
+--------------------
+Date: 24/3/2023
+Time: 10:56
+Phone Number: +919990091106
+Message: Hi
+--------------------
+Date: 26/5/2023
+Time: 23:11
+Phone Number: +918700669213
+Message: Moisture alert! The moisture value of 1023 is greater than 1022!
+--------------------
+Date: 26/5/2023
+Time: 23:11
+Phone Number: +9199900911106
+Message: Moisture alert! The moisture value of 1023 is greater than 1022!
+--------------------
+Date: 26/5/2023
+Time: 23:11
+Phone Number: +919990091106
+Message: Moisture alert! The moisture value of 1023 is greater than 1022!
+--------------------
+Date: 26/5/2023
+Time: 23:13
+Phone Number: +919990091106
+Message: Moisture alert! The moisture value of 1023 is greater than 1022!
+--------------------
+Date: 27/5/2023
+Time: 16:21
+Phone Number: +919990091106
+Message: Light alert! The light level is higher than 80.
+--------------------
